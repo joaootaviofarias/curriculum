@@ -2,4 +2,4 @@
 
 Curriculum website
 
-https://joaootaviofarias.github.io/curriculum/
+https://www.jfarias.dev/
