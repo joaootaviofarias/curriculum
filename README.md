@@ -1,4 +1,4 @@
-# JFARIAS.dev
+# jfarias.dev
 
 Curriculum website
 
